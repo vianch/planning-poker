@@ -3,11 +3,13 @@
 export default {
   primary: "#E9E0D1",
   secondary: "#91A398",
+  brown: "#68462B",
   darkEggplant: "#200532",
   darkGray: "#929292",
   darkRed: "#D50000",
   eggplant: "#610A70",
   green: "#00AA55",
+  darkGreen: "#33605A",
   lightGray: "#e4e4e4",
   mediumGray: "#CBCBCB",
   pink: "#E31C79",

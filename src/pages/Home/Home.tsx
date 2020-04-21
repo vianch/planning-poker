@@ -1,7 +1,7 @@
 import React from "react";
 import Container from "@material-ui/core/Container";
 
-import TopBar from "components/TopBar/TopBar";
+import { Poker, TopBar } from "components";
 
 import { HomeStyles } from "./styles/Home.styles";
 
@@ -17,6 +17,8 @@ function Home() {
 
         <h2>Votes</h2>
         <p>(Select one card)</p>
+
+        <Poker />
 
         <hr />
 
@@ -34,8 +36,9 @@ function Home() {
 
         <h2>So?</h2>
         <p>
-          By converting the numbers to their <strong>index</strong> and finding the mean, then converting back into fibonacci values,
-          outliers have less sway and a more expected result can be determined.
+          By converting the numbers to their <strong>index</strong> and finding
+          the mean, then converting back into fibonacci values, outliers have
+          less sway and a more expected result can be determined.
         </p>
       </Container>
     </div>
