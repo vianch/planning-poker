@@ -1,6 +1,6 @@
 import React from "react";
 
-import TopBar from "../components/TopBar/TopBar";
+import TopBar from "components/TopBar/TopBar";
 
 import logo from "../logo.svg";
 import "./App.css";
