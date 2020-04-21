@@ -1,3 +1,4 @@
 import MuiAppBar from "./appBar";
+import MuiCssBaseline from "./cssBaseline";
 
-export default { MuiAppBar };
+export default { MuiCssBaseline, MuiAppBar };
