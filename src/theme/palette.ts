@@ -1,0 +1,18 @@
+export default {
+  aqua: "#34C8EA",
+  black: "#000000",
+  darkEggplant: "#200532",
+  darkGray: "#929292",
+  darkRed: "#D50000",
+  eggplant: "#610A70",
+  green: "#00AA55",
+  lightGray: "#e4e4e4",
+  mediumGray: "#CBCBCB",
+  pink: "#E31C79",
+  red: "#FF1226",
+  redGradient: "linear-gradient(90deg, #FF1226 0%, #E31C79 100%)",
+  veryDarkGray: "#282c34",
+  veryLightGray: "#f3f3f3",
+  white: "#FFFFFF",
+  facebookBlueColor: "#3B52A6",
+};
