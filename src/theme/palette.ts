@@ -1,6 +1,8 @@
+// https://www.colourlovers.com/palette/41805/cobblestone_jazz#s
+
 export default {
-  aqua: "#34C8EA",
-  black: "#000000",
+  primary: "#E9E0D1",
+  secondary: "#91A398",
   darkEggplant: "#200532",
   darkGray: "#929292",
   darkRed: "#D50000",
